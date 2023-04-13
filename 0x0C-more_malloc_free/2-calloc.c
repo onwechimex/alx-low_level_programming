@@ -2,7 +2,7 @@
 
 /**
  * _memset - copy char
- * @s: string
+ * @h: string
  * @b: input
  * @n: bytes
  * Return: string
